@@ -1,5 +1,5 @@
 # mqgp
-MQTT PGP securtity module
+MQTT PGP security module
 =========================
 
 Introduction
